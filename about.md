@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About me
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Leily 从事运维工作，小运维一枚，了解点python shell django，了解点saltstack,了解点linux.
+无论现在多么艰苦，我依然昂首向前！
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[76350689@qq.com](mailto:76350689@qq.com)
