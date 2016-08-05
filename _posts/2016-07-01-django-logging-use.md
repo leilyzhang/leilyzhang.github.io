@@ -1,5 +1,5 @@
 ---
-layout: monthly_archive
+layout: post
 title: "Django 日志模块 logging"
 comments: true
 keywords: "django"
