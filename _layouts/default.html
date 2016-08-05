@@ -31,8 +31,7 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
             {% for category in site.categories %}
-            <a href="/categories/{{ category }}/" title="view all
-posts">{{ category | first }} {{ category | last | size }}</a>
+            <a href="/categories/{{ category | first }}/">{{ category | first }} </a>
             {% endfor %}
           </nav>
         </header>
