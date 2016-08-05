@@ -13,7 +13,6 @@ description: 记录生活点滴，学习过程
 avatar: https://raw.githubusercontent.com/leilyzhang/leilyzhang.github.io/master/images/leily.jpg
 
 safe: false
-path: categories
 #
 # Flags below are optional
 #
@@ -79,10 +78,6 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-test-plugin
-  - jekyll-jsonify 
-  - jekyll-assets
-  - jekyll-archive
 
 # Exclude these files from your production _site
 exclude:
