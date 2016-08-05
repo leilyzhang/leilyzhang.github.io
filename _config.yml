@@ -82,6 +82,7 @@ gems:
   - jekyll-test-plugin
   - jekyll-jsonify 
   - jekyll-assets
+  - jekyll-archive
 
 # Exclude these files from your production _site
 exclude:
