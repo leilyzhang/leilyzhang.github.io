@@ -13,6 +13,15 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <h4>Category</h4>
+    <ul>
+    //这里使用了 jekyll 语法，会被编译，所以加多个"\"
+    {\% for category in site.categories %}
+    <li><a href="/categories/{{ category | first }}/" title="view all
+       posts">{{ category | first }} {{ category | last | size }}</a>
+    </li>
+    {\% endfor %}
+</ul>
   </head>
 
   <body>
