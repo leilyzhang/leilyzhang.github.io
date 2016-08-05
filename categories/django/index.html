@@ -5,7 +5,6 @@ layout: default
 
 
 {% for category in site.categories %}
-{% if {{ category | first }}=='django' %}
 <h2>{{ category | first }}</h2>
 <ul class="arc-list">
     {% for post in category.last %}
