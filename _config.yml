@@ -12,6 +12,7 @@ description: 记录生活点滴，学习过程
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 avatar: https://raw.githubusercontent.com/leilyzhang/leilyzhang.github.io/master/images/leily.jpg
 
+safe: false
 #
 # Flags below are optional
 #
