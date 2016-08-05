@@ -1,6 +1,5 @@
 ---
 layout: post
-layout: category_archive
 title: "Django 日志模块 logging"
 comments: true
 keywords: "django"
