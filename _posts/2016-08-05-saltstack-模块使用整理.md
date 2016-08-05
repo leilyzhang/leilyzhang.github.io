@@ -2,7 +2,8 @@
 layout: post
 title: "saltstack 主要模块使用介绍"
 comments: true
-keywords: "salstack"
+keywords: "saltstack"
+category: saltstack
 author: "leilyzhang"
 ---
 
