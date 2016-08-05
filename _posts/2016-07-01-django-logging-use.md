@@ -1,8 +1,8 @@
 ---
 layout: monthly_archive
-title: "saltstack 主要模块使用介绍"
+title: "Django 日志模块 logging"
 comments: true
-keywords: "salstack"
+keywords: "django"
 author: "leilyzhang"
 ---
 
