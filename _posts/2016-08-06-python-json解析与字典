@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "python JSON和字典关系解析"
+title: "python-JSON和字典关系解析"
 comments: true
 keywords: "python"
 category: python
 author: "leilyzhang"
 ---
-
 
 ### 认识json and dict
 JSON(JavaScript Object Notation) 是一种轻量级的数据交换格式。它基于JavaScript（Standard ECMA-262 3rd Edition - December 1999）的一个子集。 JSON采用完全独立于语言的文本格式，但是也使用了类似于C语言家族的习惯（包括C, C++, C#, Java, JavaScript, Perl, Python等）。这些特性使JSON成为理想的数据交换语言。
