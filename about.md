@@ -8,7 +8,13 @@ permalink: /about/
 
 ### More Information
 
-Leily 从事运维工作多年，小运维一枚，懂点python django，了解saltstack cmdb 自动化运维,了解点linux.
+Leily 从事运维工作多年，小运维一枚，主要技术兴趣爱好
+
+- python django
+- saltstack自动化运维
+- cmdb 资产管理
+- linux服务器运维
+- zabbix,elk 等开源软件
 
 努力向上学习中.
 
