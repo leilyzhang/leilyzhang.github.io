@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-Leily 从事运维工作多年，小运维一枚，主要技术兴趣爱好
+Leily 从事运维工作多年，小运维一枚，主要技术兴趣爱好：
 
 - python django
 - saltstack自动化运维
